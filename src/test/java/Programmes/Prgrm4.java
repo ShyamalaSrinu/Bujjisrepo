@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 
-public class Prgrm2 {
+public class Prgrm4 {
   @Test
   public void f() {
   }
